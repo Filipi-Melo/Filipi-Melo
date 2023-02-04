@@ -14,7 +14,7 @@
 ### 🛠️ Linguagens e ferramentas :
 
 
-<div>
+<div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"    height="40"/>&nbsp;
@@ -26,7 +26,7 @@
 ---
 
 ### 🔥 Meu Status :
-<div>
-  <img src='https://github-readme-stats.vercel.app/api?username=Filipi-Melo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true' heigth='10vh'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Filipi-Melo&layout=compact&theme=vision-friendly-dark' width='500vh'>
+<div align='center'>
+  <img height="150em" src='https://github-readme-stats.vercel.app/api?username=Filipi-Melo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true'>
+  <img height="150em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Filipi-Melo&layout=compact&theme=vision-friendly-dark&hide_border=false'>
 </div>
