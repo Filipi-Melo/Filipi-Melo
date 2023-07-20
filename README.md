@@ -1,5 +1,6 @@
 # Olá 👋
-<img src="https://gpvc.arturio.dev/Filipi-Melo" alt=""/>
+
+<img src="https://komarev.com/ghpvc/?username=Filipi-Melo&style=flat-square&color=red" alt=""/>
 
 ### 👨‍💻 Sobre mim: 
 
